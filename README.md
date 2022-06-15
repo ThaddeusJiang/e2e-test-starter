@@ -3,9 +3,9 @@
 ## Getting Started
 
 ```
-yarn install
+npm install
 
-yarn e2e
+npm run e2e
 ```
 
 ## Coding Guidelines
