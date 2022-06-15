@@ -1,0 +1,17 @@
+{
+  "name": "e2e-test-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "npx playwright test",
+    "e2e:report": "playwright show-report",
+    "e2e:headed": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "Thaddeus Jiang",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
