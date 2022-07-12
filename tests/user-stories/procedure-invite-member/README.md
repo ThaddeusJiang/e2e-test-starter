@@ -1,0 +1,1 @@
+# Invite Member Procedure | User Story
